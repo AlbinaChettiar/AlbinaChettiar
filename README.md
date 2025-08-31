@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Albina Chettiar ✨👾</h1>
 <h3 align="center">Someone from EARTH 🌎</h3>
 
-<img align="left" alt="coffee" width="400" src="https://i.pinimg.com/originals/e8/f3/8e/e8f38e2b7a8d3a395e95b77c324fe6e5.gif">
+<img align="right" alt="coffee" width="400" src="https://i.pinimg.com/originals/e8/f3/8e/e8f38e2b7a8d3a395e95b77c324fe6e5.gif">
 
 - 🔭 I’m currently working on **HateSniff (Multimodal Hate detection System)**
 
