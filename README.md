@@ -1,3 +1,5 @@
+![logo](https://github.com/AlbinaChettiar/AlbinaChettiar/blob/main/github%20banner.png)
+
 <h1 align="center">Hi , I'm Albina Chettiar ✨👾</h1>
 <h3 align="center">Someone from EARTH 🌎</h3>
 
